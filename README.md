@@ -146,6 +146,3 @@ Feedstock Maintainers
 * [@hiohiohio](https://github.com/hiohiohio/)
 * [@sanurielf](https://github.com/sanurielf/)
 
-
-<!-- dummy commit to enable rerendering -->
-
