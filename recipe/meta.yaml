@@ -1,5 +1,5 @@
 {% set name = "alpaca-py" %}
-{% set version = "0.36.0" %}
+{% set version = "0.37.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/alpaca_py-{{ version }}.tar.gz
-  sha256: 66ebb67c316a8ee03fad409f9d0755363249d5807df35f293bf43d497f592643
+  sha256: cb3cf0f0ae3c28a246bb50364e114846051348a0a6301a224a9e23f08ea7f1e6
 
 build:
   noarch: python
